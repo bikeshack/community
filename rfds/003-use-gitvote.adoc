@@ -1,0 +1,27 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: discussion
+:discussion:
+:revremark: State: {state} | {discussion}
+:authors: Alex Lovell-Troy <alovelltroy@lanl.gov>
+
+= RFD 0003 Use Gitvote for official votes
+{authors}
+
+The OpenCSM governance board needs a transparent and auditable way to conduct official votes.  The Gitvote tool is a good candidate for this purpose.  It is already in use by other open source projects, and it is open source itself.
+
+GitVote is a GitHub application that allows holding a vote on issues and pull requests.  It allows members of named github teams/groups to vote for the acceptance or rejection of a proposal.  It also allows for a quorum to be set, and for a supermajority to be required for acceptance.  It also allows for a time limit to be set on the vote.
+
+Accepting this RFD would mean that the OpenCSM governance board would use GitVote for official votes.  It would also mean that the governance board would have to decide on the quorum and supermajority requirements for acceptance of a vote.
+
+== Open Questions
+
+What should the quorum and supermajority requirements be?
+
+[bibliography]
+== External References
+* GitVote: https://gitvote.dev/
+* GitVote GitHub: https://github.com/cncf/gitvote
+
