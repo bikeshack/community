@@ -1,0 +1,55 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: prediscussion
+:discussion:
+:revremark: State: {state} | {discussion}
+:authors: Alex Lovell-Troy <alovelltroy@lanl.gov>
+
+= RFD 0004 Establish a Technical Steering Committee
+{authors}
+
+
+== Introduction
+
+As the project moves from a purely vendor-led effort to a community-led effort, it is important to establish a technical steering committee to help guide the technical direction of the project.  This document proposes the creation of a technical steering committee and outlines the responsibilities of the committee.
+
+== Structure
+
+The TSC will comprise representatives from the partner organizations, ensuring equal representation and democratic decision making.  The founding partners will each have one permanent seat on the TSC with additional seats added or removed by the board based on the addition of partners as well as the health of the project.
+
+== Responsibilities
+
+The TSC's main responsiblity is to maintain board confidence in the technical quality of the software under governance within this project.  The board will delegate the following responsibilities to the TSC:
+* Technical oversight of the project
+* Documentation of technical decisions
+* Contribution Guidelines and corresponding Review Process
+* Technical Roadmap
+* Special Intrest Groups (SIGs) governance
+* Contributor Experience
+* Technical Community Health
+
+== Decision Making
+
+The TSC will make decisions by democratic consensus.  In the event that consensus cannot be reached, the TSC will escalate the issue to the board for resolution.  The TSC operates under the same Code of Conduct as the board.
+
+== Membership
+
+Membership on the TSC is open to all contributors to the project.  The TSC will be responsible for maintaining a list of active contributors and will use this list to determine membership.  The TSC will also be responsible for maintaining a list of inactive contributors and will use this list to determine when to remove members from the TSC.  The TSC will also be responsible for maintaining a list of contributors who have been removed from the project for violating the Code of Conduct and will use this list to determine when to remove members from the TSC.
+
+=== Meetings
+
+TSC meetings will be held monthly for formal votes and to review progress reports. The primary business of the TSC will take place in Github and on public mailing lists.  The TSC will also hold ad-hoc meetings as needed to address any community or board issues that arise between meetings.
+
+=== Leadership
+
+The TSC leadership positions will be elected by the TSC members.  The TSC will elect a chairperson and a vice-chairperson, and a secretary. The chairperson will be responsible for running the TSC meetings and will also sit on the board as the TSC representative. He or She will be responsible for the timely delivery of quarterly reports to the board.  The vice-chairperson will be responsible for the smooth functioning of the TSC governance mechanics and shall assume the duties of the chair in the absence of the chairperson.  The TSC will also elect a secretary who will be responsible for taking meeting minutes and publishing them to the project website.  The secretary will also be responsible for maintaining the TSC membership list along with active and inactive contributors lists.
+
+=== Term Limits
+
+The chairperson and vice-chairperson positions will be elected for a term of two years with elections held every year.  The chairperson and vice-chairperson will be elected in alternating years.  The secretary will be elected every year.  Officers may serve two consecutive terms before being required to step down.  Officers may run for re-election after stepping down.  Any exception to the term limits must be unanimously approved by the board.
+
+== Accountability and Reporting
+
+The primary accountability of the TSC is to the board.  The secondary accountability of the TSC is to the community.  The TSC will report to the board on a quarterly basis.  The TSC will also publish meeting minutes to the project website.  The TSC will also publish an annual project health report to the project website.
