@@ -10,8 +10,8 @@ This charter is enacted by the founding members of the project through the creat
   - Thomas Schulthess
   - Mark Klein (Alternate)
 * HPE
-  - Ted Wood
-  - Dennis Walker (Alternate)
+  - Larry Kaplan
+  - Ted Wood (Alternate)
 * LANL
   - Tim Randles
   - Gary Grider (Alternate)
