@@ -1,10 +1,8 @@
-# CRAY / HPE OSS Community
+# OpenCSM OSS Community
 ---
-Welcome to the Cray /HPE open source community!
+Welcome to the OpenCSM open source community!
 
 This is the starting point for joining and contributing to the community - improving docs, improving code, giving talks etc.
-
-To learn more about the project structure and organization, please refer to Project Governance information.
 
 # COMMUNICATING
 ---
@@ -12,8 +10,15 @@ The communication page lists communication channels like chat, issues, mailing l
 
 For more specific topics, try a SIG.
 
-# GOVERNANCE
----
-Note that this repository is loosely modeled on the kubernetes open governance repository at https://github.com/kubernetes/community.  The goal is to apply the similar governance within the Cray / HPE community.  Phase 1 will seed the governance and Phase 2 will expand participation.
+# OpenCSM Community
 
-Details for current governance can be found [here](https://github.com/Cray-HPE/community/blob/main/governance.md). 
+The OpenCSM Community repository defines the goals, values, and governance structure of the OpenCSM project.
+
+## Mission
+
+The mission of the OpenCSM project is to build and maintain an open source suite of tools for managing HPC systems that embrace cloud native practices without sacrificing efficiency for traditional HPC applications.
+
+## Users
+
+The OpenCSM project is primarily designed for use by operators and sysadmins of HPC systems.  It's APIs and interfaces are designed to be flexible and extensible so site/cloud specfic local tooling can tailor the HPC experience for running HPC/AI applications.
+
