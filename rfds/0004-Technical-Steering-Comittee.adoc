@@ -36,7 +36,7 @@ The TSC will make decisions by democratic consensus.  In the event that consensu
 
 == Membership
 
-Membership on the TSC is open to all contributors to the project.  The TSC will be responsible for maintaining a list of active contributors and will use this list to determine membership.  The TSC will also be responsible for maintaining a list of inactive contributors and will use this list to determine when to remove members from the TSC.  The TSC will also be responsible for maintaining a list of contributors who have been removed from the project for violating the Code of Conduct and will use this list to determine when to remove members from the TSC.
+Membership on the TSC is open to all contributors to the project.  The TSC will be responsible for maintaining a list of active contributors and will use this list to determine membership.  The TSC will also be responsible for maintaining a list of inactive contributors and will use this list to determine when to remove members from the TSC.  The TSC will also be responsible for maintaining a list of contributors who have been removed from the project for violating the Code of Conduct and will use this list to determine when to remove members from the TSC.  The board will also have the ability to remove members from the TSC for violating the Code of Conduct or for other reasons deemed necessary by the board.
 
 === Meetings
 
