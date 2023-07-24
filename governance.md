@@ -32,7 +32,6 @@ There can be no non-voting members of the Board. All Board members have an equal
   - Sadaf Alam
   - Christopher Woods (Alternate)
 
-
 ## Technical Steering Committee
 The board entrusts technical oversight of the project to the Technical Steering Committee (the TSC).  Membership in the TSC is granted permanently to the founding institutions named below. A founding institution is required to submit in writing to the board and the TC its intention to leave the TC. Each founding institution shall appoint one member and one alternate member to the TC. Both individuals have the right to participate in TSC meetings, but only the primary TSC member has voting rights, unless the primary member is unavailable. A membership vote for the TSC shall happen on a yearly basis beginning one year after the adoption of these rules.
 
