@@ -6,6 +6,16 @@ This charter is enacted by the founding members of the project through the creat
 
 ### Board Membership
 
+The Board is the ultimate decision-making body of the Project and comprises members nominated by the founding partners and non-founding partners that fulfill the membership criteria.
+
+Each founding partner must nominate one primary and one alternate Board member. Both individuals have the right to attend board meetings, but only the primary Board member has voting rights, unless the primary member is unavailable.
+
+The Board is expanded by the inclusion of non-founding partners who have demonstrated their commitment to the Consortium by dedicating resources to the project and delivering on that commitment for at least six consecutive months.
+
+Non-founding partners must be nominated by an existing partner and accepted by a majority vote of the Board. Upon acceptance, non-founding partners have the right to nominate a primary and alternate Board member.
+
+There can be no non-voting members of the Board. All Board members have an equal vote.
+
 * CSCS
   - Thomas Schulthess
   - Mark Klein (Alternate)
@@ -23,7 +33,7 @@ This charter is enacted by the founding members of the project through the creat
   - Christopher Woods (Alternate)
 
 ## Technical Steering Committee
-The board entrusts technical oversight of the project to the Technical Steering Committee (the TSC).  Membership in the TSC is granted permanently to the founding institutions named below. A founding institution is required to submit in writing to the board and the TC its intention to leave the TC. Each founding institution shall appoint one member and one alternate member to the TC. Membership on the Technical Committee by someone other than a founding member appointment shall be by majority vote of the project development community. A membership vote for the TC shall happen on a yearly basis beginning one year after the adoption of these rules.
+The board entrusts technical oversight of the project to the Technical Steering Committee (the TSC).  Membership in the TSC is granted permanently to the founding institutions named below. A founding institution is required to submit in writing to the board and the TC its intention to leave the TC. Each founding institution shall appoint one member and one alternate member to the TC. Both individuals have the right to participate in TSC meetings, but only the primary TSC member has voting rights, unless the primary member is unavailable. A membership vote for the TSC shall happen on a yearly basis beginning one year after the adoption of these rules.
 
 ### Special Interest Groups and Technical Working Groups
 
