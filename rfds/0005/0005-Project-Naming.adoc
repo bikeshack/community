@@ -1,0 +1,42 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: discussion
+:discussion: https://github.com/orgs/bikeshack/discussions/9
+:revremark: State: {state} | {discussion}
+:authors: Alex Lovell-Troy <alovelltroy@lanl.gov>
+
+= RFD 0005 Open Composable Scalable Management (OCSM)
+{authors}
+
+== Context
+
+The open source project derived from the MIT licensed codebase of the Cray System Management HPC Control System is in need of a new name.  Cray is a trademark of HPE and cannot be used in this context without causing confusion in HPE's product line as well as within the community of HPC operators.  As part of forming the board of the open source project, several names have been suggested, but consensus has not been reached.  This RFD is to provide a forum for discussion and a process for choosing a name.
+
+== Naming Criteria
+
+As Phil Karlton pointed out, naming is one of the two hard problems in computer science.  In the case of this project, the founding organizations have conflicting opinions about what makes up a good name.  The following criteria are proposed to help guide the discussion:
+
+The name should be:
+
+  * unique and not easily confused with other projects or products
+  * easy to pronounce and spell
+  * indicitave of community support and collaboration
+  * without significant negative connotations
+
+== Options
+
+* **Open Community System Manager** (OCSM): This title emphasizes the open source nature of the project and the fact that it is a system manager for HPC.
+* **Open Cloud native System Manager** (OCSM): This title emphasizes the open source nature of the project and the fact that it is a system manager for HPC.
+* **Open Central System Manager** (OCSM): This title emphasizes the open source nature of the project and the fact that it is a system manager for HPC.
+* **Open Cloud Supercomputer Manager** (OCSM): This title emphasizes the open source nature of the project and the fact that it is a system manager for HPC.
+* **Modular HPC System Manager** (MHSM): This title emphasizes the modularity of the system, which was an original design goal, but we can take it much further.
+* **Open HPC System Manager** (OHSM): This title emphasizes the open source nature of the project and the fact that it is a system manager for HPC.
+* **Confidential Application and Resource Management** (CARMA): This title emphasizes the future focus on confidential computing and the ongoing task of resource management, with a nod to "karma" - creating good outcomes through secure and efficient system management.
+* **ExaMachina** : Combining 'Exa', referring to the Exascale capability, and 'Machina', the Latin word for machine, this name highlights the software's high-performance capability and its suitability for large, powerful machines.
+* **Hyperion** : Named after one of the Greek Titan gods, Hyperion, the father of sun, moon, and dawn, suggests power, illumination, and the start of a new day or era. It implies the capability of your software to bring about new beginnings in the realm of HPC.
+
+== Determinations
+
+At the HPE-hosted meeting on the 25th of July, we agreed that the name should be Open Composable Scalable Management (OCSM).
