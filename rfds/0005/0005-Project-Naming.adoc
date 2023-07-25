@@ -7,7 +7,7 @@
 :revremark: State: {state} | {discussion}
 :authors: Alex Lovell-Troy <alovelltroy@lanl.gov>
 
-= RFD 0005 Choosing a project name
+= RFD 0005 Open Composable Scalable Management (OCSM)
 {authors}
 
 == Context
