@@ -1,0 +1,22 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: discussion
+:discussion:
+:revremark: State: {state} | {discussion}
+:authors: Alex Lovell-Troy <alovelltroy@lanl.gov>
+
+= RFD 0006 Composability Layers of OCSM
+{authors}
+
+The purpose of this document is to describe the composability layers of OCSM.  This document is a work in progress and will be updated as the OCSM architecture evolves.
+
+== Determinations
+
+== Open Questions
+
+== Security Considerations
+
+[bibliography]
+== External References
